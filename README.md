@@ -24,8 +24,7 @@ Home.html:
 
 The Setup of the file - 
 * header
-    * include an h1 
-        * “Click a color to choose a starter”
+* include an h1 “Click a color to choose a starter”
 * a main
 * within the main, a section
      * 3articles
