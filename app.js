@@ -51,7 +51,7 @@ fetch("https://pokeapi.co/api/v2/pokemon-species/4/")
 
 redPokeball.addEventListener("click", (event) => {
 
-    pokemonImage.setAttribute("src", ".pngs/charmanderpng.png");
+    pokemonImage.setAttribute("src", "./pngs/charmanderpng.png");
     pokemonImage.setAttribute("alt", "charmander");
 
     fetch("https://pokeapi.co/api/v2/pokemon-species/4/")
@@ -69,7 +69,7 @@ redPokeball.addEventListener("click", (event) => {
 
 greenPokeball.addEventListener("click", (event) => {
 
-    pokemonImage.setAttribute("src", ".pngs/bulbasaurpng.png");
+    pokemonImage.setAttribute("src", "./pngs/bulbasaurpng.png");
     pokemonImage.setAttribute("alt", "bulbasaur");
     fetch("https://pokeapi.co/api/v2/pokemon-species/1/")
     .then((response) => {
@@ -86,7 +86,7 @@ greenPokeball.addEventListener("click", (event) => {
 
 bluePokeball.addEventListener("click", (event) => {
 
-    pokemonImage.setAttribute("src", ".pngs/squirtlepng.png");
+    pokemonImage.setAttribute("src", "./pngs/squirtlepng.png");
     pokemonImage.setAttribute("alt", "squirtle");
     fetch("https://pokeapi.co/api/v2/pokemon-species/7/")
     .then((response) => {
