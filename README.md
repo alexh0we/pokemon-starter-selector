@@ -75,7 +75,7 @@ Select a pokemon from the dropdown menu and press go!
 
 This will enlarge the selected pokemon’s image and populate our pokedex info section with data from the api.
    
-   <img width="1440" alt="Screenshot 2023-04-04 at 3 49 18 PM" src="https://user-images.githubusercontent.com/122542471/229911769-f9d6dbc2-67bc-4acc-9354-67920d3f1ea7.png">
+<img width="1440" alt="Screenshot 2023-04-04 at 3 49 18 PM" src="https://user-images.githubusercontent.com/122542471/229911769-f9d6dbc2-67bc-4acc-9354-67920d3f1ea7.png">
    
 
 We still have our about me page! Check out the link! On hover it should turn orange. Set that up in our style sheet.
