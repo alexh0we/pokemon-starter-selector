@@ -153,7 +153,7 @@ form.addEventListener("submit", (event) => {
         })
         .then((response) => {
             console.log(response)
-            pokemonImage.setAttribute("src", ".pngs/charmanderpng.png");
+            pokemonImage.setAttribute("src", "./pngs/charmanderpng.png");
             pokemonImage.setAttribute("alt", "charmander");
             starterName.innerHTML = response.name;
             pokedexInfo.innerHTML = `Congratulations! You chose ${response.name}. ${response['flavor_text_entries'][9]["flavor_text"]}`;
@@ -173,7 +173,7 @@ form.addEventListener("submit", (event) => {
         })
         .then((response) => {
             console.log(response)
-            pokemonImage.setAttribute("src", ".pngs/bulbasaurpng.png");
+            pokemonImage.setAttribute("src", "./pngs/bulbasaurpng.png");
             pokemonImage.setAttribute("alt", "bulbasaur");
             starterName.innerHTML = response.name;
             pokedexInfo.innerHTML = `Congratulations! You chose ${response.name}. ${response['flavor_text_entries'][9]["flavor_text"]}`;
@@ -191,7 +191,7 @@ form.addEventListener("submit", (event) => {
         })
         .then((response) => {
             console.log(response)
-            pokemonImage.setAttribute("src", ".pngs/squirtlepng.png");
+            pokemonImage.setAttribute("src", "./pngs/squirtlepng.png");
             pokemonImage.setAttribute("alt", "squirtle");
             starterName.innerHTML = response.name;
             pokedexInfo.innerHTML = `Congratulations! You chose ${response.name}. ${response['flavor_text_entries'][9]["flavor_text"]}`;
