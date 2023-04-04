@@ -82,12 +82,12 @@ We still have our about me page! Check out the link! On hover it should turn ora
    
 <img width="1440" alt="Screenshot 2023-04-04 at 3 49 22 PM" src="https://user-images.githubusercontent.com/122542471/229911871-f5dcc5a9-9697-4614-8e3a-3c53b673ff10.png">
 
-<img width="1440" alt="Screenshot 2023-04-04 at 3 50 03 PM" src="https://user-images.githubusercontent.com/122542471/229911918-03de67c1-0c4f-48c4-8251-9236690fb653.png"
+<img width="1440" alt="Screenshot 2023-04-04 at 3 50 03 PM" src="https://user-images.githubusercontent.com/122542471/229911918-03de67c1-0c4f-48c4-8251-9236690fb653.png">
 
 
 Clicking it will lead to our next page, about.html. About.html will be styled using specific instructions from the about.css page.
-
-<img width="1440" alt="Screenshot 2023-04-04 at 3 52 47 PM" src="https://user-images.githubusercontent.com/122542471/229911992-9193c1f3-a69a-4ed3-807a-545ba281f667.png">
+   
+<img width="1440" alt="Screenshot 2023-04-04 at 3 52 47 PM" src="https://user-images.githubusercontent.com/122542471/229912372-15765305-8a87-46a5-8b1b-af25d36d8de8.png">
 
 And, of course, the home link works with our hover settings as well. 
    
